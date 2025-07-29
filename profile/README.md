@@ -47,10 +47,10 @@ We need:
 ---
 
 ## 📌 Active Projects
-2. **[vazon-web](https://github.com/VAZON/vazon-web)** – Web interface
-3. **[vazon-mobile](https://github.com/VAZON/vazon-mobile)** – Mobile application  
-4. **[vazon-backend](https://github.com/VAZON/vazon-backend)** – All API infrastructure
-4. **[vazon-ml](https://github.com/VAZON/vazon-ml)** – ML
+2. **[vazon-web](https://github.com/vazonhub/vazon-web)** – Web interface
+3. **[vazon-mobile](https://github.com/vazonhub/vazon-mobile)** – Mobile application  
+4. **[vazon-backend](https://github.com/vazonhub/vazon-backend)** – All API infrastructure
+4. **[vazon-ml](https://github.com/vazonhub/vazon-ml)** – ML
 
 ---
 
